@@ -20,4 +20,4 @@ flt = ld.flemmatize(predictions)
 
 print(ld.ttr(flt))
 print(ld.mtld(flt))
-print(ld.mtld_ma_wrap(flt))
+#print(ld.mtld_ma_wrap(flt))
